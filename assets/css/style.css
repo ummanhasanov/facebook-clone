@@ -1,0 +1,30 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 18 сент. 2024 г., 21:06:01
+    Author     : Umman Hasan
+*/
+
+body{
+    font-family: roboto,sans-serif;
+    background-color: #e9ebee;
+    font-size: 16px;
+}
+
+.main{
+    font-family: Helvetica, Arial,sans-serif;
+    height: 100vh;
+    width: 100vw;
+    display: flex;    
+}
+
+.left-side{
+    flex-basis: 50%
+}
+
+.right-side{
+    flex-basis: 50%    
+}
+
